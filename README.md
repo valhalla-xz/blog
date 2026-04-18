@@ -1,4 +1,4 @@
-# OpenNIC用のblogger
+# 自分専用のblogger
 
 GitHub Pages使うために公開してるだけだから見んな
 
@@ -6,7 +6,7 @@ GitHub Pages使うために公開してるだけだから見んな
 
 # どこにホスティングしてんの？
 
-[ここだよバーロー](http://valhalla.o)
+[ここだよバーロー](http://valhallarsrx.qzz.io)
 
 今準備中だけどな
 
@@ -16,4 +16,4 @@ GitHub Pages使うために公開してるだけだから見んな
 
 **帰れ**
 
-**OpenNICに接続出来る体制作って見に行け**
+**サイト踏んで見に行け**
