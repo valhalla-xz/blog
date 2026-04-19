@@ -8,11 +8,8 @@ excerpt: Contact information for this site.
 tertiary-column: none
 ---
 
-This is a placeholder in the theme.
+緊急連絡があるならTwitter見てメールして
 
-Edit this content in `pages/contact/contact.md`.
+ProtonMailなら割と早く返信出来るけどE2Eしたいから出来る限りProton同士でメールしてくれ
 
-But you can contact us at:
-
-- Before the at sign: rien
-- After the at sign: balancingrock.nl
+Redditもたまに見てるからRedditでDM送ってくれてもいい
