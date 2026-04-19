@@ -7,4 +7,4 @@ menuTopTitle: Download
 menuTopIndex: 1000
 excerpt: Where to get Classic Jekyll Theme.
 ---
-You can get the Classic-Jekyll-Theme at either [rubygems.org](https://rubygems.org/gems/classic-jekyll-theme) or from [github](https://github.com/Balancingrock/classic-jekyll-theme).
+[暫くPC使えないのでコレクションのファイル配布します](https://pub-b3adf73842d24f149670c2496c663c76.r2.dev)
