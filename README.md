@@ -8,6 +8,8 @@ GitHub Pages使うために公開してるだけだから見んな
 
 [ここだよバーロー](http://valhallarsrx.qzz.io)
 
+今OpenNICのために保留
+
 今準備中だけどな
 
 # これのファイルの中身は？
