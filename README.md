@@ -1,19 +1,35 @@
-# 自分専用のblogger
+# ~~自分専用のblogger~~OpenNICという現世とは全く違うインターネットを布教
 
-GitHub Pages使うために公開してるだけだから見んな
+~~GitHub Pages使うために公開してるだけだから見んな~~ お前ら見ろ。そして日本OpenNICユーザーになるんだ。
 
-[使ってるやつ](https://github.com/Balancingrock/classic-jekyll-theme)
+[実際にホスティングしてるWebサイトで使ってるやつ](https://github.com/Balancingrock/classic-jekyll-theme)
 
-# どこにホスティングしてんの？
+## OpenNICでどのようにホスティングするのか
 
-[ここだよバーロー](http://valhallarsrx.qzz.io)
+~~Wiki整備してるからそっち見て行ってね~~
 
-~~Cloudflare Pagesで無理矢理動かしますgg~~
+とりあえずWikiの整備時間かかりそうなので暫定でここで解説
 
-# これのファイルの中身は？
+1:OpenNICでアカウントを作る（メール認証のリンク踏んでInvalid Syntaxになったら鯖落ちしてるから2〜3日くらい間を置くと勝手に復旧してる）~~ちなみに12敗~~
 
-知らん
+2:[be.libre](http://be.libre)に作ったアカウントでログインして適当にドメインを作成（be.libre以外が扱うTLDでもいいけど最低限AレコードとCNAMEレコードが使えるやつにして）
 
-# OpenNICは？
+3:作ったドメインにAレコードで
 
-[整備中](http://valhalla.geek/)
+```185.199.108.153 185.199.109.153 185.199.110.153 185.199.111.153```
+
+を割り当て、サブドメインにwwwを追加してCNAMEで```yourusername.github.io```
+
+4:リポジトリ名をyourusername.github.ioにしてからPagesを有効化し、カスタムドメインに作ったドメインを割り当てる
+
+これだけであとは何分か放置してれば勝手にデプロイしてくれる
+
+# 特徴
+
+* Wikiに分かりやすく解説
+
+* 猿、ゴリラ、チンパンジーについて詳しくなれる
+
+* ~~トリビアの泉でも取り上げられないような~~明日使える無駄知識を得られる
+
+* 俺ネット強いんだぜアピールが出来る
